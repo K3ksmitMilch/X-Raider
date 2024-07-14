@@ -1,3 +1,3 @@
-# Discord-Raid-Bot
+# X-Raider
 
 # Releasing Soon!
